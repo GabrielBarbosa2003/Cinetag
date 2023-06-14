@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import logo from 'assets/Logo.png'
+import logo from 'assets/logo-atari.png'
 import styles from './Cabecalho.module.css'
 import CabecalhoLink from 'components/CabecalhoLink'
 

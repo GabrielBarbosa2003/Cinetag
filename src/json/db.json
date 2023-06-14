@@ -1,28 +1,27 @@
-{"videos":
+
 [
     {
         "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+        "titulo": "Halo 3",
+        "capa": "https://th.bing.com/th/id/OIP.U3ZrzdUeDIeNAimb0XfuiwHaEK?w=275&h=180&c=7&r=0&o=5&pid=1.7",
+        "link": "https://www.youtube.com/embed/tuRvqbNWwz4"
     },
     {
         "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+        "titulo": "Halo 4",
+        "capa": "https://th.bing.com/th/id/OIP.eqEw797eaQmwfovMTLUKdAHaEK?pid=ImgDet&rs=1",
+        "link": "https://www.youtube.com/embed/Y9iQiHNXgMU"
     },
     {
         "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+        "titulo": "Hogwarts Legacy",
+        "capa": "https://th.bing.com/th/id/OIP.uLjFZmF3hrRsoJgPocCCyQHaEK?w=299&h=180&c=7&r=0&o=5&pid=1.7",
+        "link": "https://www.youtube.com/embed/78CP8na1Fpo"
     },
     {
         "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+        "titulo": "Horizon",
+        "capa": "https://th.bing.com/th/id/OIP.zxE5BPa1oS3h4WFx-Ki6IAHaEK?w=319&h=180&c=7&r=0&o=5&pid=1.7",
+        "link": "https://www.youtube.com/embed/9axpikOIHEo"
     }
 ]
-}
